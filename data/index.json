@@ -1,5 +1,29 @@
 {
     "about" : [
         "Hello my name is Jason September"
+    ],
+    "Products": [
+        {
+            "url" : "https://i.postimg.cc/Y2QGKLXs/Screenshot-2023-11-01-113304.png",
+        "name": "Guitar Picks",
+        "description" : "For better and stronger rivs and melodies"
+        },
+        {
+            "url" : "https://i.postimg.cc/Y2QGKLXs/Screenshot-2023-11-01-113304.png",
+            "name": "Acoustic Guitar for beginners",
+            "description" : "Great for beginners to learn on ,which also have a beautiful melody"
+        },
+        {
+            "url" : "https://i.postimg.cc/Y2QGKLXs/Screenshot-2023-11-01-113304.png",
+                "name": "Saxophone",
+                "description" : "Tenor Saxophone is great for taking the lead"
+                
+        },
+        {
+            "url" : "https://i.postimg.cc/Y2QGKLXs/Screenshot-2023-11-01-113304.png",
+            "name": "Nylon Strings",
+            "description" : "Strong and stil has such a beautiful melody"
+                   
+        }
     ]
 }
